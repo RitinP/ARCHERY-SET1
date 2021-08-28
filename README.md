@@ -1,1 +1,3 @@
-# ARCHERY-SET1
+# hunter-archer
+
+Project Solution for hunter-archer
